@@ -7,9 +7,7 @@
         mc:Ignorable="d"
         Title="wBooks" Height="350" Width="1013.235" WindowStartupLocation="CenterScreen" WindowState="Maximized">
     <Window.Resources>
-        <Style TargetType="Button">
-
-        </Style>
+        <Style TargetType="Button"></Style>
     </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
@@ -61,6 +59,36 @@
                 <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
                     <Grid>
                         <Image Margin="0,0,0,55" Source="/Images/Books/4.jpg" RenderOptions.BitmapScalingMode="NearestNeighbor" Height="215" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                </DockPanel>
+                <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
+                    <Grid>
+                        <Image Margin="0,0,0,55" Source="/Images/Books/5.jpg" RenderOptions.BitmapScalingMode="NearestNeighbor" Height="215" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                </DockPanel>
+                <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
+                    <Grid>
+                        <Image Margin="0,0,0,55" Source="/Images/Books/6.jpg" RenderOptions.BitmapScalingMode="NearestNeighbor" Height="215" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                </DockPanel>
+                <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
+                    <Grid>
+                        <Image Margin="0,0,0,55" Source="/Images/Books/7.jpg" RenderOptions.BitmapScalingMode="NearestNeighbor" Height="215" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                </DockPanel>
+                <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
+                    <Grid>
+                        <Image Margin="0,0,0,55" Source="/Images/Books/5.jpg" RenderOptions.BitmapScalingMode="NearestNeighbor" Height="215" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                </DockPanel>
+                <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
+                    <Grid>
+                        <Image Margin="0,0,0,55" Source="/Images/Books/6.jpg" RenderOptions.BitmapScalingMode="NearestNeighbor" Height="215" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </Grid>
+                </DockPanel>
+                <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
+                    <Grid>
+                        <Image Margin="0,0,0,55" Source="/Images/Books/7.jpg" RenderOptions.BitmapScalingMode="NearestNeighbor" Height="215" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
                     </Grid>
                 </DockPanel>
                 <DockPanel Height="310" Width="auto" Margin="10,0" Cursor="Hand">
